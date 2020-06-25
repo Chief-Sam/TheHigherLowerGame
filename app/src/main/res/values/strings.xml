@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Higher-Lower Game</string>
+    <string name="higher_or_lower">Higher OR Lower ?</string>
+    <string name="i_am_thinking_of_a_number_between_1_20">I am Thinking of a number between 1-20</string>
+    <string name="can_you_guess_it">Can you Guess It ??</string>
+    <string name="input">Input:</string>
+    <string name="guess">Guess</string>
+</resources>
